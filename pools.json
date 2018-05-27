@@ -21,6 +21,13 @@
     ]
   },
   {
+    "poolName": "CoinBlockers",
+    "url": "https://kmd.coinblockers.com",
+    "searchStrings": [
+      "coinblockers.com - https://coinblockers.com"
+    ]
+  },
+  {
     "poolName": "Zmine",
     "url": "https://zmine.io/",
     "searchStrings": [
