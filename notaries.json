@@ -209,7 +209,7 @@
   },
 
   {
-    "notaryName": "karasugoi_NA",
+    "notaryName": "karasugoi_NA (s3)",
     "pubkey": [
       "02a348b03b9c1a8eac1b56f85c402b041c9bce918833f2ea16d13452309052a982"
     ]
@@ -517,14 +517,14 @@
   },
 
   {
-    "notaryName": "cipi_AR",
+    "notaryName": "cipi_AR (s3)",
     "pubkey": [
       "02c4f89a5b382750836cb787880d30e23502265054e1c327a5bfce67116d757ce8"
     ]
   },
 
   {
-    "notaryName": "cipi_NA",
+    "notaryName": "cipi_NA (s3)",
     "pubkey": [
       "02858904a2a1a0b44df4c937b65ee1f5b66186ab87a751858cf270dee1d5031f18"
     ]
@@ -748,28 +748,28 @@
   },
 
   {
-    "notaryName": "madmax_NA",
+    "notaryName": "madmax_NA (s3)",
     "pubkey": [
       "0237e0d3268cebfa235958808db1efc20cc43b31100813b1f3e15cc5aa647ad2c3"
     ]
   },
 
   {
-    "notaryName": "alright_AR",
+    "notaryName": "alright_AR (s3)",
     "pubkey": [
       "020566fe2fb3874258b2d3cf1809a5d650e0edc7ba746fa5eec72750c5188c9cc9"
     ]
   },
 
   {
-    "notaryName": "strob_NA",
+    "notaryName": "strob_NA (s3)",
     "pubkey": [
       "0206f7a2e972d9dfef1c424c731503a0a27de1ba7a15a91a362dc7ec0d0fb47685"
     ]
   },
 
   {
-    "notaryName": "dwy_EU",
+    "notaryName": "dwy_EU (s3)",
     "pubkey": [
       "021c7cf1f10c4dc39d13451123707ab780a741feedab6ac449766affe37515a29e"
     ]
@@ -783,266 +783,266 @@
   },
 
   {
-    "notaryName": "chainmakers_NA",
+    "notaryName": "chainmakers_NA (s3)",
     "pubkey": [
       "02285d813c30c0bf7eefdab1ff0a8ad08a07a0d26d8b95b3943ce814ac8e24d885"
     ]
   },
 
   {
-    "notaryName": "blackjok3r_SH",
+    "notaryName": "blackjok3r_SH (s3)",
     "pubkey": [
       "021eac26dbad256cbb6f74d41b10763183ee07fb609dbd03480dd50634170547cc"
     ]
   },
 
   {
-    "notaryName": "chainmakers_EU",
+    "notaryName": "chainmakers_EU (s3)",
     "pubkey": [
       "03fdf5a3fce8db7dee89724e706059c32e5aa3f233a6b6cc256fea337f05e3dbf7"
     ]
   },
 
   {
-    "notaryName": "titomane_AR",
+    "notaryName": "titomane_AR (s3)",
     "pubkey": [
       "023e3aa9834c46971ff3e7cb86a200ec9c8074a9566a3ea85d400d5739662ee989"
     ]
   },
 
   {
-    "notaryName": "fullmoon_SH",
+    "notaryName": "fullmoon_SH (s3)",
     "pubkey": [
       "023b7252968ea8a955cd63b9e57dee45a74f2d7ba23b4e0595572138ad1fb42d21"
     ]
   },
 
   {
-    "notaryName": "chmex_EU",
+    "notaryName": "chmex_EU (s3)",
     "pubkey": [
       "0281304ebbcc39e4f09fda85f4232dd8dacd668e20e5fc11fba6b985186c90086e"
     ]
   },
 
   {
-    "notaryName": "ca333_DEV",
+    "notaryName": "ca333_DEV (s3)",
     "pubkey": [
       "02856843af2d9457b5b1c907068bef6077ea0904cc8bd4df1ced013f64bf267958"
     ]
   },
 
   {
-    "notaryName": "pungocloud_SH",
+    "notaryName": "pungocloud_SH (s3)",
     "pubkey": [
       "024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6"
     ]
   },
 
   {
-    "notaryName": "voskcoin_EU",
+    "notaryName": "voskcoin_EU (s3)",
     "pubkey": [
       "034190b1c062a04124ad15b0fa56dfdf34aa06c164c7163b6aec0d654e5f118afb"
     ]
   },
 
   {
-    "notaryName": "cryptoeconomy_EU",
+    "notaryName": "cryptoeconomy_EU (s3)",
     "pubkey": [
       "0290ab4937e85246e048552df3e9a66cba2c1602db76e03763e16c671e750145d1"
     ]
   },
 
   {
-    "notaryName": "etszombi_EU",
+    "notaryName": "etszombi_EU (s3)",
     "pubkey": [
       "0293ea48d8841af7a419a24d9da11c34b39127ef041f847651bae6ab14dcd1f6b4"
     ]
   },
 
   {
-    "notaryName": "pirate_AR",
+    "notaryName": "pirate_AR (s3)",
     "pubkey": [
       "03e29c90354815a750db8ea9cb3c1b9550911bb205f83d0355a061ac47c4cf2fde"
     ]
   },
 
   {
-    "notaryName": "zatjum_SH",
+    "notaryName": "zatjum_SH (s3)",
     "pubkey": [
       "02d6b0c89cacd58a0af038139a9a90c9e02cd1e33803a1f15fceabea1f7e9c263a"
     ]
   },
 
   {
-    "notaryName": "madmax_AR",
+    "notaryName": "madmax_AR (s3)",
     "pubkey": [
       "03c5941fe49d673c094bc8e9bb1a95766b4670c88be76d576e915daf2c30a454d3"
     ]
   },
 
   {
-    "notaryName": "lukechilds_NA",
+    "notaryName": "lukechilds_NA (s3)",
     "pubkey": [
       "03f1051e62c2d280212481c62fe52aab0a5b23c95de5b8e9ad5f80d8af4277a64b"
     ]
   },
 
   {
-    "notaryName": "tonyl_AR",
+    "notaryName": "tonyl_AR (s3)",
     "pubkey": [
       "02cc8bc862f2b65ad4f99d5f68d3011c138bf517acdc8d4261166b0be8f64189e1"
     ]
   },
 
   {
-    "notaryName": "infotech_DEV",
+    "notaryName": "infotech_DEV (s3)",
     "pubkey": [
       "0345ad4ab5254782479f6322c369cec77a7535d2f2162d103d666917d5e4f30c4c"
     ]
   },
 
   {
-    "notaryName": "fullmoon_NA",
+    "notaryName": "fullmoon_NA (s3)",
     "pubkey": [
       "032c716701fe3a6a3f90a97b9d874a9d6eedb066419209eed7060b0cc6b710c60b"
     ]
   },
 
   {
-    "notaryName": "etszombi_AR",
+    "notaryName": "etszombi_AR (s3)",
     "pubkey": [
       "02e55e104aa94f70cde68165d7df3e162d4410c76afd4643b161dea044aa6d06ce"
     ]
   },
 
   {
-    "notaryName": "node-9_EU",
+    "notaryName": "node-9_EU (s3)",
     "pubkey": [
       "0372e5b51e86e2392bb15039bac0c8f975b852b45028a5e43b324c294e9f12e411"
     ]
   },
 
   {
-    "notaryName": "phba2061_EU",
+    "notaryName": "phba2061_EU (s3)",
     "pubkey": [
       "03f6bd15dba7e986f0c976ea19d8a9093cb7c989d499f1708a0386c5c5659e6c4e"
     ]
   },
 
   {
-    "notaryName": "and1-89_EU",
+    "notaryName": "and1-89_EU (s3)",
     "pubkey": [
       "02736cbf8d7b50835afd50a319f162dd4beffe65f2b1dc6b90e64b32c8e7849ddd"
     ]
   },
 
   {
-    "notaryName": "komodopioneers_SH",
+    "notaryName": "komodopioneers_SH (s3)",
     "pubkey": [
       "032a238a5747777da7e819cfa3c859f3677a2daf14e4dce50916fc65d00ad9c52a"
     ]
   },
 
   {
-    "notaryName": "komodopioneers_EU",
+    "notaryName": "komodopioneers_EU (s3)",
     "pubkey": [
       "036d02425916444fff8cc7203fcbfc155c956dda5ceb647505836bef59885b6866"
     ]
   },
 
   {
-    "notaryName": "d0ct0r_NA",
+    "notaryName": "d0ct0r_NA (s3)",
     "pubkey": [
       "0303725d8525b6f969122faf04152653eb4bf34e10de92182263321769c334bf58"
     ]
   },
 
   {
-    "notaryName": "kolo_DEV",
+    "notaryName": "kolo_DEV (s3)",
     "pubkey": [
       "02849e12199dcc27ba09c3902686d2ad0adcbfcee9d67520e9abbdda045ba83227"
     ]
   },
 
   {
-    "notaryName": "peer2cloud_AR",
+    "notaryName": "peer2cloud_AR (s3)",
     "pubkey": [
       "02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37"
     ]
   },
 
   {
-    "notaryName": "webworker01_SH",
+    "notaryName": "webworker01_SH (s3)",
     "pubkey": [
       "031e50ba6de3c16f99d414bb89866e578d963a54bde7916c810608966fb5700776"
     ]
   },
 
   {
-    "notaryName": "webworker01_NA",
+    "notaryName": "webworker01_NA (s3)",
     "pubkey": [
       "032735e9cad1bb00eaababfa6d27864fa4c1db0300c85e01e52176be2ca6a243ce"
     ]
   },
 
   {
-    "notaryName": "pbca26_NA",
+    "notaryName": "pbca26_NA (s3)",
     "pubkey": [
       "03a97606153d52338bcffd1bf19bb69ef8ce5a7cbdc2dbc3ff4f89d91ea6bbb4dc"
     ]
   },
 
   {
-    "notaryName": "pirate_NA",
+    "notaryName": "pirate_NA (s3)",
     "pubkey": [
       "0255e32d8a56671dee8aa7f717debb00efa7f0086ee802de0692f2d67ee3ee06ee"
     ]
   },
 
   {
-    "notaryName": "lukechilds_AR",
+    "notaryName": "lukechilds_AR (s3)",
     "pubkey": [
       "025c6a73ff6d750b9ddf6755b390948cffdd00f344a639472d398dd5c6b4735d23"
     ]
   },
 
   {
-    "notaryName": "dragonhound_NA",
+    "notaryName": "dragonhound_NA (s3)",
     "pubkey": [
       "0224a9d951d3a06d8e941cc7362b788bb1237bb0d56cc313e797eb027f37c2d375"
     ]
   },
 
   {
-    "notaryName": "fullmoon_AR",
+    "notaryName": "fullmoon_AR (s3)",
     "pubkey": [
       "03da64dd7cd0db4c123c2f79d548a96095a5a103e5b9d956e9832865818ffa7872"
     ]
   },
 
   {
-    "notaryName": "chainzilla_SH",
+    "notaryName": "chainzilla_SH (s3)",
     "pubkey": [
       "0360804b8817fd25ded6e9c0b50e3b0782ac666545b5416644198e18bc3903d9f9"
     ]
   },
 
   {
-    "notaryName": "titomane_EU",
+    "notaryName": "titomane_EU (s3)",
     "pubkey": [
       "03772ac0aad6b0e9feec5e591bff5de6775d6132e888633e73d3ba896bdd8e0afb"
     ]
   },
 
   {
-    "notaryName": "jeezy_EU",
+    "notaryName": "jeezy_EU (s3)",
     "pubkey": [
       "037f182facbad35684a6e960699f5da4ba89e99f0d0d62a87e8400dd086c8e5dd7"
     ]
   },
 
   {
-    "notaryName": "titomane_SH",
+    "notaryName": "titomane_SH (s3)",
     "pubkey": [
       "03850fdddf2413b51790daf51dd30823addb37313c8854b508ea6228205047ef9b"
     ]
@@ -1056,42 +1056,42 @@
   },
 
   {
-    "notaryName": "pirate_EU",
+    "notaryName": "pirate_EU (s3)",
     "pubkey": [
       "03fff24efd5648870a23badf46e26510e96d9e79ce281b27cfe963993039dd1351"
     ]
   },
 
   {
-    "notaryName": "thegaltmines_NA",
+    "notaryName": "thegaltmines_NA (s3)",
     "pubkey": [
       "02db1a16c7043f45d6033ccfbd0a51c2d789b32db428902f98b9e155cf0d7910ed"
     ]
   },
 
   {
-    "notaryName": "computergenie_NA",
+    "notaryName": "computergenie_NA (s3)",
     "pubkey": [
       "03a78ae070a5e9e935112cf7ea8293f18950f1011694ea0260799e8762c8a6f0a4"
     ]
   },
 
   {
-    "notaryName": "nutellalicka_SH",
+    "notaryName": "nutellalicka_SH (s3)",
     "pubkey": [
       "02f7d90d0510c598ce45915e6372a9cd0ba72664cb65ce231f25d526fc3c5479fc"
     ]
   },
 
   {
-    "notaryName": "chainstrike_SH",
+    "notaryName": "chainstrike_SH (s3)",
     "pubkey": [
       "03b806be3bf7a1f2f6290ec5c1ea7d3ea57774dcfcf2129a82b2569e585100e1cb"
     ]
   },
 
   {
-    "notaryName": "dwy_SH",
+    "notaryName": "dwy_SH (s3)",
     "pubkey": [
       "036536d2d52d85f630b68b050f29ea1d7f90f3b42c10f8c5cdf3dbe1359af80aff"
     ]
@@ -1105,14 +1105,14 @@
   },
 
   {
-    "notaryName": "gt_AR",
+    "notaryName": "gt_AR (s3)",
     "pubkey": [
       "0348430538a4944d3162bb4749d8c5ed51299c2434f3ee69c11a1f7815b3f46135"
     ]
   },
 
   {
-    "notaryName": "patchkez_SH",
+    "notaryName": "patchkez_SH (s3)",
     "pubkey": [
       "03f45e9beb5c4cd46525db8195eb05c1db84ae7ef3603566b3d775770eba3b96ee"
     ]
@@ -1122,6 +1122,377 @@
     "notaryName": "decker_AR",
     "pubkey": [
       "03ffdf1a116300a78729608d9930742cd349f11a9d64fcc336b8f18592dd9c91bc"
+    ]
+  }
+
+  {
+    "notaryName": "strob_NA",
+    "pubkey": [
+      "02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405"
+    ]
+  },
+
+  {
+    "notaryName": "titomane_SH",
+    "pubkey": [
+      "020014ad4eedf6b1aeb0ad3b101a58d0a2fc570719e46530fd98d4e585f63eb4ae"
+    ]
+  },
+
+  {
+    "notaryName": "fullmoon_AR",
+    "pubkey": [
+      "03b251095e747f759505ec745a4bbff9a768b8dce1f65137300b7c21efec01a07a"
+    ]
+  },
+
+  {
+    "notaryName": "phba2061_EU",
+    "pubkey": [
+      "03a9492d2a1601d0d98cfe94d8adf9689d1bb0e600088127a4f6ca937761fb1c66"
+    ]
+  },
+
+  {
+    "notaryName": "fullmoon_NA",
+    "pubkey": [
+      "03931c1d654a99658998ce0ddae108d825943a821d1cddd85e948ac1d483f68fb6"
+    ]
+  },
+
+  {
+    "notaryName": "fullmoon_SH",
+    "pubkey": [
+      "03c2a1ed9ddb7bb8344328946017b9d8d1357b898957dd6aaa8c190ae26740b9ff"
+    ]
+  },
+
+  {
+    "notaryName": "madmax_AR",
+    "pubkey": [
+      "022be5a2829fa0291f9a51ff7aeceef702eef581f2611887c195e29da49092e6de"
+    ]
+  },
+
+  {
+    "notaryName": "titomane_EU",
+    "pubkey": [
+      "0285cf1fdba761daf6f1f611c32d319cd58214972ef822793008b69dde239443dd"
+    ]
+  },
+
+  {
+    "notaryName": "cipi_NA",
+    "pubkey": [
+      "022c6825a24792cc3b010b1531521eba9b5e2662d640ed700fd96167df37e75239"
+    ]
+  },
+
+  {
+    "notaryName": "madmax_NA",
+    "pubkey": [
+      "02997b7ab21b86bbea558ae79acc35d62c9cedf441578f78112f986d72e8eece08"
+    ]
+  },
+
+  {
+    "notaryName": "chainzilla_SH",
+    "pubkey": [
+      "02288ba6dc57936b59d60345e397d62f5d7e7d975f34ed5c2f2e23288325661563"
+    ]
+  },
+
+  {
+    "notaryName": "peer2cloud_AR",
+    "pubkey": [
+      "0250e7e43a3535731b051d1bcc7dc88fbb5163c3fe41c5dee72bd973bcc4dca9f2"
+    ]
+  },
+
+  {
+    "notaryName": "pirate_EU",
+    "pubkey": [
+      "0231c0f50a06655c3d2edf8d7e722d290195d49c78d50de7786b9d196e8820c848"
+    ]
+  },
+
+  {
+    "notaryName": "webworker01_NA",
+    "pubkey": [
+      "02dfd5f3cef1142879a7250752feb91ddd722c497fb98c7377c0fcc5ccc201bd55"
+    ]
+  },
+
+  {
+    "notaryName": "zatjum_SH",
+    "pubkey": [
+      "036066fd638b10e555597623e97e032b28b4d1fa5a13c2b0c80c420dbddad236c2"
+    ]
+  },
+
+  {
+    "notaryName": "titomane_AR",
+    "pubkey": [
+      "0268203a4c80047edcd66385c22e764ea5fb8bc42edae389a438156e7dca9a8251"
+    ]
+  },
+
+  {
+    "notaryName": "chmex_EU",
+    "pubkey": [
+      "025b7209ba37df8d9695a23ea706ea2594863ab09055ca6bf485855937f3321d1d"
+    ]
+  },
+
+  {
+    "notaryName": "patchkez_SH",
+    "pubkey": [
+      "02cabd6c5fc0b5476c7a01e9d7b907e9f0a051d7f4f731959955d3f6b18ee9a242"
+    ]
+  },
+
+  {
+    "notaryName": "etszombi_EU",
+    "pubkey": [
+      "0341adbf238f33a33cc895633db996c3ad01275313ac6641e046a3db0b27f1c880"
+    ]
+  },
+
+  {
+    "notaryName": "pirate_NA",
+    "pubkey": [
+      "02207f27a13625a0b8caef6a7bb9de613ff16e4a5f232da8d7c235c7c5bad72ffe"
+    ]
+  },
+
+  {
+    "notaryName": "chainmakers_NA",
+    "pubkey": [
+      "029415a1609c33dfe4a1016877ba35f9265d25d737649f307048efe96e76512877"
+    ]
+  },
+
+  {
+    "notaryName": "mihailo_EU",
+    "pubkey": [
+      "037f9563f30c609b19fd435a19b8bde7d6db703012ba1aba72e9f42a87366d1941"
+    ]
+  },
+
+  {
+    "notaryName": "tonyl_AR",
+    "pubkey": [
+      "0299684d7291abf90975fa493bf53212cf1456c374aa36f83cc94daece89350ae9"
+    ]
+  },
+
+  {
+    "notaryName": "alien_NA",
+    "pubkey": [
+      "03bea1ac333b95c8669ec091907ea8713cae26f74b9e886e13593400e21c4d30a8"
+    ]
+  },
+
+  {
+    "notaryName": "pungocloud_SH",
+    "pubkey": [
+      "025b97d8c23effaca6fa7efacce20bf54df73081b63004a0fe22f3f98fece5669f"
+    ]
+  },
+
+  {
+    "notaryName": "node9_EU",
+    "pubkey": [
+      "029ffa793b5c3248f8ea3da47fa3cf1810dada5af032ecd0e37bab5b92dd63b34e"
+    ]
+  },
+
+  {
+    "notaryName": "smdmitry_AR",
+    "pubkey": [
+      "022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac"
+    ]
+  },
+
+  {
+    "notaryName": "nodeone_NA",
+    "pubkey": [
+      "03f9dd0484e81174fd50775cb9099691c7d140ff00c0f088847e38dc87da67eb9b"
+    ]
+  },
+
+  {
+    "notaryName": "gcharang_SH",
+    "pubkey": [
+      "02ec4172eab854a0d8cd32bc691c83e93975a3df5a4a453a866736c56e025dc359"
+    ]
+  },
+
+  {
+    "notaryName": "cipi_EU",
+    "pubkey": [
+      "02f2b6defff1c544202f66e47cfd6909c54d67c7c39b9c2a99f137dbaf6d0bd8fa"
+    ]
+  },
+
+  {
+    "notaryName": "etszombi_AR",
+    "pubkey": [
+      "0329944b0ac65b6760787ede042a2fde0be9fca1d80dd756bc0ee0b98d389b7682"
+    ]
+  },
+
+  {
+    "notaryName": "pbca26_NA",
+    "pubkey": [
+      "0387e0fb6f2ca951154c87e16c6cbf93a69862bb165c1a96bcd8722b3af24fe533"
+    ]
+  },
+
+  {
+    "notaryName": "mylo_SH",
+    "pubkey": [
+      "03b58f57822e90fe105e6efb63fd8666033ea503d6cc165b1e479bbd8c2ba033e8"
+    ]
+  },
+
+  {
+    "notaryName": "swisscertifiers_EU",
+    "pubkey": [
+      "03ebcc71b42d88994b8b2134bcde6cb269bd7e71a9dd7616371d9294ec1c1902c5"
+    ]
+  },
+
+  {
+    "notaryName": "marmarachain_AR",
+    "pubkey": [
+      "035bbd81a098172592fe97f50a0ce13cbbf80e55cc7862eccdbd7310fab8a90c4c"
+    ]
+  },
+
+  {
+    "notaryName": "karasugoi_NA",
+    "pubkey": [
+      "0262cf2559703464151153c12e00c4b67a969e39b330301fdcaa6667d7eb02c57d"
+    ]
+  },
+
+  {
+    "notaryName": "oszy_EU",
+    "pubkey": [
+      "03d1ffd680491b98a3ec5541715681d1a45293c8efb1722c32392a1d792622596a"
+    ]
+  },
+
+  {
+    "notaryName": "chmex_AR",
+    "pubkey": [
+      "036c856ea778ea105b93c0be187004d4e51161eda32888aa307b8f72d490884005"
+    ]
+  },
+
+  {
+    "notaryName": "dragonhound_NA",
+    "pubkey": [
+      "0227e5cad3731e381df157de189527aac8eb50d82a13ce2bd81153984ebc749515"
+    ]
+  },
+
+  {
+    "notaryName": "strob_SH",
+    "pubkey": [
+      "025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a"
+    ]
+  },
+
+  {
+    "notaryName": "madmax_EU",
+    "pubkey": [
+      "02ea0cf4d6d151d0528b07efa79cc7403d77cb9195e2e6c8374f5074b9a787e287"
+    ]
+  },
+
+  {
+    "notaryName": "dudezmobi_AR",
+    "pubkey": [
+      "027ecd974ff2a27a37ee69956cd2e6bb31a608116206f3e31ef186823420182450"
+    ]
+  },
+
+  {
+    "notaryName": "daemonfox_NA",
+    "pubkey": [
+      "022d6f4885f53cbd668ad7d03d4f8e830c233f74e3a918da1ed247edfc71820b3d"
+    ]
+  },
+
+  {
+    "notaryName": "nutellalicka_SH",
+    "pubkey": [
+      "02f4b1e71bc865a79c05fe333952b97cb040d8925d13e83925e170188b3011269b"
+    ]
+  },
+
+  {
+    "notaryName": "starfleet_EU",
+    "pubkey": [
+      "025c7275bd750936862b47793f1f0bb3cbed60fb75a48e7da016e557925fe375eb"
+    ]
+  },
+
+  {
+    "notaryName": "mrlynch_AR",
+    "pubkey": [
+      "031987dc82b087cd53e23df5480e265a5928e9243e0e11849fa12359739d8b18a4"
+    ]
+  },
+
+  {
+    "notaryName": "greer_NA",
+    "pubkey": [
+      "03e0995615d7d3cf1107effa6bdb1133e0876cf1768e923aa533a4e2ee675ec383"
+    ]
+  },
+
+  {
+    "notaryName": "mcrypt_SH",
+    "pubkey": [
+      "025faab3cc2e83bf7dad6a9463cbff86c08800e937942126f258cf219bc2320043"
+    ]
+  },
+
+  {
+    "notaryName": "decker_EU",
+    "pubkey": [
+      "03777777caebce56e17ca3aae4e16374335b156f1dd62ee3c7f8799c6b885f5560"
+    ]
+  },
+
+  {
+    "notaryName": "dappvader_SH",
+    "pubkey": [
+      "02962e2e5af746632016bc7b24d444f7c90141a5f42ce54e361b302cf455d90e6a"
+    ]
+  },
+
+  {
+    "notaryName": "alright_DEV",
+    "pubkey": [
+      "02b73a589d61691efa2ada15c006d27bc18493fea867ce6c14db3d3d28751f8ce3"
+    ]
+  },
+
+  {
+    "notaryName": "artemii235_DEV",
+    "pubkey": [
+      "03bb616b12430bdd0483653de18733597a4fd416623c7065c0e21fe9d96460add1"
+    ]
+  },
+
+  {
+    "notaryName": "tonyl_DEV",
+    "pubkey": [
+      "02d5f7fd6e25d34ab2f3318d60cdb89ff3a812ec5d0212c4c113bb12d12616cfdc"
     ]
   }
 ]
