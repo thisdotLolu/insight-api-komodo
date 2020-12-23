@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "^2.6.2",
-    "bitcore-lib-komodo": "git+https://git@github.com/DeckerSU/bitcore-lib-komodo",
-    "bitcore-message-komodo": "git+https://git@github.com/DeckerSU/bitcore-message-komodo",
+    "bitcore-lib-komodo": "git+https://git@github.com/BloodyNora/bitcore-lib-komodo",
+    "bitcore-message-komodo": "git+https://git@github.com/BloodyNora/bitcore-message-komodo",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
