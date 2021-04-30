@@ -1,5 +1,5 @@
 {
-  "name": "insight-api-komodo",
+  "name": "api",
   "description": "A Komodo blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
   "repository": "git-ssh://git@github.com:supernetorg/insight-api-komodo.git",
@@ -65,7 +65,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "^2.6.2",
-    "bitcore-lib-komodo": "git+https://git@github.com/monkins1010/bitcore-lib-komodo",
+    "bitcore-lib-komodo": "git+https://git@github.com/VerusCoin/bitcore-lib-komodo",
     "bitcore-message-komodo": "git+https://git@github.com/monkins1010/bitcore-message-komodo",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
